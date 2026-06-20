@@ -1,0 +1,97 @@
+
+21007108_tips_01.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1inohola2_tips_0008_body
+  rotate: true
+  xy: 2, 36
+  size: 212, 324
+  orig: 212, 324
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_brow
+  rotate: false
+  xy: 122, 6
+  size: 118, 28
+  orig: 119, 29
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_eyes
+  rotate: false
+  xy: 2, 2
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_forearm_right
+  rotate: true
+  xy: 917, 3
+  size: 245, 121
+  orig: 245, 121
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_hair01
+  rotate: false
+  xy: 1154, 168
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_hair02
+  rotate: true
+  xy: 1040, 39
+  size: 209, 112
+  orig: 209, 112
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_hand_left1
+  rotate: true
+  xy: 583, 38
+  size: 210, 174
+  orig: 210, 174
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_hand_right
+  rotate: true
+  xy: 759, 47
+  size: 201, 156
+  orig: 253, 156
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_head
+  rotate: true
+  xy: 328, 57
+  size: 191, 253
+  orig: 192, 253
+  offset: 1, 0
+  index: -1
+1inohola2_tips_0008_mouth
+  rotate: false
+  xy: 242, 12
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_nose
+  rotate: true
+  xy: 294, 7
+  size: 27, 20
+  orig: 31, 25
+  offset: 2, 3
+  index: -1
+1inohola2_tips_0008_upperarm_left1
+  rotate: false
+  xy: 1154, 80
+  size: 218, 86
+  orig: 219, 87
+  offset: 0, 0
+  index: -1
+1inohola2_tips_0008_upperarm_right
+  rotate: true
+  xy: 1374, 44
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1

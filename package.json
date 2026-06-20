@@ -1,0 +1,40 @@
+{
+  "name": "game-asset-hub",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server/index.ts",
+    "import-assets": "tsx scripts/importAssets.ts",
+    "import-cutins": "tsx scripts/importCutinSamples.ts",
+    "import-3007-cutins": "tsx scripts/import3007CutinsFromManifest.ts",
+    "import-3007-generated-character-spine": "tsx scripts/import3007GeneratedCharacterSpine.ts",
+    "import-3007-remaining-character-spine": "tsx scripts/import3007GeneratedCharacterSpine.ts --manifest H:/game_assets_rebuild/3007_huoying_xinshidai/spine-character-exporter/output/export-report.json --workspace-prefix 3007-remaining-character-spine --skip-existing-normal",
+    "build": "vite build && tsc -p tsconfig.node.json --noEmit",
+    "preview": "tsx server/index.ts --production"
+  },
+  "dependencies": {
+    "@pixi-spine/base": "^4.0.6",
+    "@pixi-spine/runtime-3.7": "^4.0.6",
+    "@pixi-spine/runtime-3.8": "^4.0.6",
+    "@pixi-spine/runtime-4.0": "^4.0.6",
+    "@pixi-spine/runtime-4.1": "^4.0.6",
+    "@vitejs/plugin-react": "^5.1.1",
+    "express": "^5.2.1",
+    "lucide-react": "^0.561.0",
+    "pixi-spine": "^4.0.6",
+    "pixi.js": "^7.4.3",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router-dom": "^7.10.1",
+    "vite": "^7.2.7"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^24.10.2",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,19 @@
+(node:42104) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[31mWebSocket server error: Port 24678 is already in use[39m
+PayloadTooLargeError: request entity too large
+    at readStream (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\raw-body\index.js:163:17)
+    at getRawBody (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\raw-body\index.js:116:12)
+    at read (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\body-parser\lib\read.js:113:3)
+    at jsonParser (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\body-parser\lib\types\json.js:88:5)
+    at Layer.handleRequest (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\router\index.js:342:13)
+    at H:\game_assets_rebuild\Game_Asset_Hub\node_modules\router\index.js:297:9
+    at processParams (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\router\index.js:582:12)
+    at next (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\router\index.js:291:5)
+    at router.handle (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\router\index.js:186:3)
+    at app.handle (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\express\lib\application.js:177:15)
+    at Server.app (H:\game_assets_rebuild\Game_Asset_Hub\node_modules\express\lib\express.js:38:9)
+    at Server.emit (node:events:508:28)
+    at parserOnIncoming (node:_http_server:1198:18)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:125:17)

@@ -1,0 +1,6 @@
+
+> game-asset-hub@0.1.0 dev
+> tsx server/index.ts
+
+Game Asset Hub running at http://127.0.0.1:5183
+Projects: 火影忍者 OL / 火影忍界传说 / 火影木叶高手

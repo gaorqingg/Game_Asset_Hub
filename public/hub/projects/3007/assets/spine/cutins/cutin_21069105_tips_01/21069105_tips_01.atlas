@@ -1,0 +1,153 @@
+
+21069105_tips_01.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_toufa01
+  rotate: false
+  xy: 1281, 140
+  size: 203, 56
+  orig: 203, 56
+  offset: 0, 0
+  index: -1
+A_toufa02
+  rotate: false
+  xy: 1257, 198
+  size: 206, 56
+  orig: 206, 56
+  offset: 0, 0
+  index: -1
+A_toufa03
+  rotate: false
+  xy: 1100, 106
+  size: 179, 67
+  orig: 179, 67
+  offset: 0, 0
+  index: -1
+A_toufa04
+  rotate: false
+  xy: 896, 95
+  size: 202, 78
+  orig: 202, 78
+  offset: 0, 0
+  index: -1
+A_toufa13
+  rotate: false
+  xy: 604, 84
+  size: 290, 170
+  orig: 290, 170
+  offset: 0, 0
+  index: -1
+B_lian
+  rotate: true
+  xy: 1580, 13
+  size: 141, 191
+  orig: 141, 191
+  offset: 0, 0
+  index: -1
+B_shenti
+  rotate: false
+  xy: 348, 26
+  size: 254, 228
+  orig: 254, 228
+  offset: 0, 0
+  index: -1
+B_toufa01
+  rotate: true
+  xy: 1382, 12
+  size: 126, 196
+  orig: 126, 196
+  offset: 0, 0
+  index: -1
+B_toufa02
+  rotate: false
+  xy: 1773, 77
+  size: 118, 177
+  orig: 118, 177
+  offset: 0, 0
+  index: -1
+B_toufa03
+  rotate: true
+  xy: 604, 8
+  size: 74, 391
+  orig: 74, 391
+  offset: 0, 0
+  index: -1
+B_toufa04
+  rotate: false
+  xy: 1773, 8
+  size: 151, 67
+  orig: 151, 67
+  offset: 0, 0
+  index: -1
+B_toufa05
+  rotate: true
+  xy: 896, 175
+  size: 79, 359
+  orig: 79, 359
+  offset: 0, 0
+  index: -1
+B_toufa06
+  rotate: true
+  xy: 1893, 90
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+B_toufa07
+  rotate: true
+  xy: 2, 41
+  size: 213, 344
+  orig: 213, 344
+  offset: 0, 0
+  index: -1
+B_xiuzi
+  rotate: false
+  xy: 1893, 151
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+B_xiuzi01
+  rotate: false
+  xy: 1654, 164
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+B_yanqiul
+  rotate: false
+  xy: 1926, 31
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+B_youdabi
+  rotate: true
+  xy: 1176, 6
+  size: 98, 204
+  orig: 98, 204
+  offset: 0, 0
+  index: -1
+B_zui
+  rotate: false
+  xy: 2, 18
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+B_zuodabi
+  rotate: true
+  xy: 997, 2
+  size: 91, 177
+  orig: 91, 177
+  offset: 0, 0
+  index: -1
+B_zuoshou
+  rotate: true
+  xy: 1486, 156
+  size: 98, 166
+  orig: 98, 176
+  offset: 0, 10
+  index: -1

@@ -1,0 +1,21 @@
+
+> game-asset-hub@0.1.0 dev
+> tsx server/index.ts
+
+(node:46652) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+Game Asset Hub running at http://127.0.0.1:5174
+Projects: 火影忍者 OL / 火影忍界传说 / 火影木叶高手
+[2m08:42:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m14:45:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/SpineStage.tsx[22m
+[2m14:45:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/SpineStage.tsx[22m
+[2m14:46:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/SpineStage.tsx[22m
+[2m14:46:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m@pixi-spine/base, @pixi-spine/runtime-3.7, @pixi-spine/runtime-3.8, @pixi-spine/runtime-4.0, @pixi-spine/runtime-4.1[32m[39m
+[2m14:46:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m14:47:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/SpineStage.tsx[22m
+[2m14:48:18[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/ActionEffectStage.tsx[22m
+[2m14:48:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/ActionEffectStage.tsx[22m
+[2m14:49:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/ActionEffectStage.tsx[22m
+[2m14:49:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/ActionEffectStage.tsx[22m
+[2m14:49:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/ActionEffectStage.tsx[22m
+[2m14:50:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/ActionEffectStage.tsx[22m

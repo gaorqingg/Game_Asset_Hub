@@ -1,0 +1,146 @@
+
+21311013_tips_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 876, 405
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 661, 2
+  size: 199, 288
+  orig: 199, 288
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 661, 203
+  size: 213, 307
+  orig: 213, 307
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 566, 173
+  size: 93, 337
+  orig: 93, 337
+  offset: 0, 0
+  index: -1
+toufa111
+  rotate: true
+  xy: 523, 8
+  size: 37, 128
+  orig: 37, 128
+  offset: 0, 0
+  index: -1
+toufa112
+  rotate: false
+  xy: 937, 247
+  size: 36, 156
+  orig: 36, 156
+  offset: 0, 0
+  index: -1
+toufa113
+  rotate: false
+  xy: 876, 229
+  size: 59, 174
+  orig: 67, 181
+  offset: 6, 4
+  index: -1
+toufa2
+  rotate: true
+  xy: 320, 72
+  size: 99, 325
+  orig: 99, 325
+  offset: 0, 0
+  index: -1
+toufa221
+  rotate: true
+  xy: 320, 2
+  size: 68, 201
+  orig: 68, 201
+  offset: 0, 0
+  index: -1
+toufa223
+  rotate: false
+  xy: 951, 120
+  size: 25, 125
+  orig: 25, 125
+  offset: 0, 0
+  index: -1
+yh_biyan
+  rotate: false
+  xy: 501, 181
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+yh_hue
+  rotate: false
+  xy: 320, 186
+  size: 179, 75
+  orig: 179, 75
+  offset: 0, 0
+  index: -1
+yh_mei1
+  rotate: true
+  xy: 647, 47
+  size: 58, 10
+  orig: 58, 10
+  offset: 0, 0
+  index: -1
+yh_mei2
+  rotate: true
+  xy: 647, 107
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+yh_yanbai
+  rotate: false
+  xy: 538, 234
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yh_yankuang
+  rotate: true
+  xy: 501, 207
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+yh_yanqiu
+  rotate: true
+  xy: 538, 239
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+yh_zuoyan
+  rotate: false
+  xy: 523, 56
+  size: 48, 14
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: false
+  xy: 2, 263
+  size: 562, 247
+  orig: 562, 247
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 2, 54
+  size: 316, 207
+  orig: 316, 214
+  offset: 0, 0
+  index: -1

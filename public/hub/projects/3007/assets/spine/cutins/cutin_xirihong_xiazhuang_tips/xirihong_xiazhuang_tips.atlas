@@ -1,0 +1,265 @@
+
+xirihong_xiazhuang_tips.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps01
+  rotate: false
+  xy: 2, 8
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 1136, 191
+  size: 197, 319
+  orig: 197, 319
+  offset: 0, 0
+  index: -1
+xrh10
+  rotate: false
+  xy: 711, 3
+  size: 182, 51
+  orig: 182, 51
+  offset: 0, 0
+  index: -1
+xrh11
+  rotate: false
+  xy: 1335, 245
+  size: 55, 265
+  orig: 55, 265
+  offset: 0, 0
+  index: -1
+xrh12
+  rotate: false
+  xy: 514, 10
+  size: 195, 42
+  orig: 195, 42
+  offset: 0, 0
+  index: -1
+xrh13
+  rotate: false
+  xy: 735, 134
+  size: 93, 376
+  orig: 93, 376
+  offset: 0, 0
+  index: -1
+xrh14
+  rotate: true
+  xy: 1716, 227
+  size: 138, 227
+  orig: 138, 227
+  offset: 0, 0
+  index: -1
+xrh15
+  rotate: true
+  xy: 1564, 267
+  size: 243, 56
+  orig: 243, 66
+  offset: 0, 10
+  index: -1
+xrh16
+  rotate: true
+  xy: 1335, 227
+  size: 16, 121
+  orig: 16, 121
+  offset: 0, 0
+  index: -1
+xrh17
+  rotate: false
+  xy: 42, 18
+  size: 114, 19
+  orig: 114, 19
+  offset: 0, 0
+  index: -1
+xrh188
+  rotate: false
+  xy: 830, 167
+  size: 304, 343
+  orig: 304, 343
+  offset: 0, 0
+  index: -1
+xrh19
+  rotate: false
+  xy: 1192, 2
+  size: 273, 187
+  orig: 273, 187
+  offset: 0, 0
+  index: -1
+xrh20
+  rotate: true
+  xy: 52, 6
+  size: 10, 8
+  orig: 10, 13
+  offset: 0, 2
+  index: -1
+xrh21
+  rotate: true
+  xy: 1716, 409
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+xrh22
+  rotate: true
+  xy: 42, 5
+  size: 11, 8
+  orig: 18, 11
+  offset: 5, 1
+  index: -1
+xrh23
+  rotate: true
+  xy: 870, 56
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+xrh24
+  rotate: false
+  xy: 1851, 367
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+xrh25
+  rotate: true
+  xy: 378, 133
+  size: 377, 355
+  orig: 377, 355
+  offset: 0, 0
+  index: -1
+xrh26
+  rotate: false
+  xy: 984, 7
+  size: 206, 158
+  orig: 206, 158
+  offset: 0, 0
+  index: -1
+xrh27
+  rotate: true
+  xy: 1651, 45
+  size: 152, 198
+  orig: 152, 198
+  offset: 0, 0
+  index: -1
+xrh28
+  rotate: false
+  xy: 1851, 4
+  size: 79, 221
+  orig: 79, 221
+  offset: 0, 0
+  index: -1
+xrh30
+  rotate: true
+  xy: 133, 53
+  size: 457, 135
+  orig: 457, 135
+  offset: 0, 0
+  index: -1
+xrh31
+  rotate: false
+  xy: 2, 39
+  size: 129, 471
+  orig: 129, 471
+  offset: 0, 0
+  index: -1
+xrh32
+  rotate: true
+  xy: 687, 56
+  size: 75, 181
+  orig: 75, 181
+  offset: 0, 0
+  index: -1
+xrh33
+  rotate: false
+  xy: 503, 54
+  size: 182, 77
+  orig: 182, 77
+  offset: 0, 0
+  index: -1
+xrh34a
+  rotate: false
+  xy: 1451, 267
+  size: 111, 243
+  orig: 111, 243
+  offset: 0, 0
+  index: -1
+xrh35
+  rotate: true
+  xy: 1392, 264
+  size: 246, 57
+  orig: 246, 61
+  offset: 0, 4
+  index: -1
+xrh36
+  rotate: false
+  xy: 435, 8
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+xrh37
+  rotate: false
+  xy: 349, 7
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+xrh4
+  rotate: true
+  xy: 1458, 199
+  size: 66, 210
+  orig: 66, 210
+  offset: 0, 0
+  index: -1
+xrh4a
+  rotate: false
+  xy: 1525, 27
+  size: 66, 170
+  orig: 66, 210
+  offset: 0, 40
+  index: -1
+xrh5
+  rotate: true
+  xy: 1467, 26
+  size: 171, 56
+  orig: 171, 56
+  offset: 0, 0
+  index: -1
+xrh5a
+  rotate: true
+  xy: 1593, 44
+  size: 153, 56
+  orig: 171, 56
+  offset: 18, 0
+  index: -1
+xrh6
+  rotate: false
+  xy: 1622, 274
+  size: 92, 236
+  orig: 92, 236
+  offset: 0, 0
+  index: -1
+xrh7
+  rotate: true
+  xy: 158, 6
+  size: 45, 189
+  orig: 45, 189
+  offset: 0, 0
+  index: -1
+xrh8
+  rotate: false
+  xy: 270, 54
+  size: 231, 62
+  orig: 231, 62
+  offset: 0, 0
+  index: -1
+xrh9
+  rotate: false
+  xy: 270, 118
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1

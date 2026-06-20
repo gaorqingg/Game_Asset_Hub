@@ -1,0 +1,104 @@
+
+21043118_tips_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0bakiskl3_tips2_0024_erduo
+  rotate: true
+  xy: 2, 9
+  size: 29, 71
+  orig: 29, 71
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_koudai
+  rotate: false
+  xy: 75, 10
+  size: 95, 28
+  orig: 98, 29
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_mianjing
+  rotate: true
+  xy: 743, 298
+  size: 211, 186
+  orig: 211, 188
+  offset: 0, 2
+  index: -1
+0bakiskl3_tips2_0024_shenti
+  rotate: false
+  xy: 2, 169
+  size: 400, 340
+  orig: 400, 340
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_tou
+  rotate: true
+  xy: 660, 2
+  size: 132, 168
+  orig: 137, 168
+  offset: 4, 0
+  index: -1
+0bakiskl3_tips2_0024_toujing
+  rotate: true
+  xy: 530, 214
+  size: 171, 169
+  orig: 171, 169
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_youjian-1
+  rotate: true
+  xy: 701, 136
+  size: 160, 241
+  orig: 160, 241
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_youjian2-1
+  rotate: false
+  xy: 250, 22
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_youshou2
+  rotate: false
+  xy: 530, 5
+  size: 128, 207
+  orig: 134, 207
+  offset: 4, 0
+  index: -1
+0bakiskl3_tips2_0024_zuojian-1
+  rotate: false
+  xy: 931, 428
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_zuoshou03
+  rotate: false
+  xy: 404, 62
+  size: 124, 323
+  orig: 124, 324
+  offset: 0, 1
+  index: -1
+0bakiskl3_tips2_0024_zuoshou1-1
+  rotate: false
+  xy: 404, 387
+  size: 337, 122
+  orig: 337, 122
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_zuoshou2-1
+  rotate: false
+  xy: 830, 23
+  size: 191, 111
+  orig: 191, 111
+  offset: 0, 0
+  index: -1
+0bakiskl3_tips2_0024_zuoshoubi1
+  rotate: true
+  xy: 2, 40
+  size: 127, 246
+  orig: 127, 246
+  offset: 0, 0
+  index: -1

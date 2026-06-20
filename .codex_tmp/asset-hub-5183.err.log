@@ -1,0 +1,3 @@
+(node:27332) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[31mWebSocket server error: Port 24678 is already in use[39m

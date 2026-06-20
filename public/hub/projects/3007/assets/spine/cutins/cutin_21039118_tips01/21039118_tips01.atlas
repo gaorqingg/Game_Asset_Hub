@@ -1,0 +1,90 @@
+
+21039118_tips01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2asm10
+  rotate: true
+  xy: 2, 211
+  size: 295, 254
+  orig: 295, 254
+  offset: 0, 0
+  index: -1
+2asm11
+  rotate: true
+  xy: 759, 415
+  size: 91, 98
+  orig: 91, 98
+  offset: 0, 0
+  index: -1
+2asm12
+  rotate: false
+  xy: 498, 316
+  size: 167, 190
+  orig: 167, 190
+  offset: 0, 0
+  index: -1
+2asm14
+  rotate: true
+  xy: 667, 264
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+2asm2
+  rotate: false
+  xy: 667, 366
+  size: 90, 140
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+2asm3
+  rotate: false
+  xy: 258, 240
+  size: 77, 266
+  orig: 77, 266
+  offset: 0, 0
+  index: -1
+2asm4
+  rotate: false
+  xy: 337, 253
+  size: 159, 253
+  orig: 159, 253
+  offset: 0, 0
+  index: -1
+2asm5
+  rotate: true
+  xy: 253, 17
+  size: 192, 65
+  orig: 192, 65
+  offset: 0, 0
+  index: -1
+2asm6
+  rotate: false
+  xy: 498, 248
+  size: 134, 66
+  orig: 134, 66
+  offset: 0, 0
+  index: -1
+2asm7
+  rotate: true
+  xy: 2, 2
+  size: 207, 249
+  orig: 207, 249
+  offset: 0, 0
+  index: -1
+2asm8
+  rotate: true
+  xy: 320, 2
+  size: 236, 212
+  orig: 236, 212
+  offset: 0, 0
+  index: -1
+2asm9
+  rotate: true
+  xy: 534, 73
+  size: 173, 137
+  orig: 173, 137
+  offset: 0, 0
+  index: -1

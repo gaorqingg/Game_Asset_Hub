@@ -1,0 +1,328 @@
+
+21016119_tips_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: true
+  xy: 937, 62
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+okkknut_tips_biyan
+  rotate: false
+  xy: 693, 76
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+okkknut_tips_bomjiao
+  rotate: false
+  xy: 849, 231
+  size: 46, 129
+  orig: 46, 129
+  offset: 0, 0
+  index: -1
+okkknut_tips_bozi-1
+  rotate: false
+  xy: 540, 6
+  size: 45, 113
+  orig: 45, 113
+  offset: 0, 0
+  index: -1
+okkknut_tips_bozi-2
+  rotate: true
+  xy: 849, 203
+  size: 26, 112
+  orig: 26, 112
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa1
+  rotate: false
+  xy: 302, 2
+  size: 83, 245
+  orig: 84, 245
+  offset: 1, 0
+  index: -1
+okkknut_tips_fa10
+  rotate: true
+  xy: 691, 2
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa11
+  rotate: true
+  xy: 980, 349
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa12
+  rotate: true
+  xy: 957, 279
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa13
+  rotate: true
+  xy: 963, 206
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa14
+  rotate: false
+  xy: 232, 8
+  size: 55, 151
+  orig: 55, 151
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa16
+  rotate: false
+  xy: 980, 401
+  size: 41, 109
+  orig: 43, 110
+  offset: 1, 0
+  index: -1
+okkknut_tips_fa17
+  rotate: false
+  xy: 458, 10
+  size: 46, 114
+  orig: 46, 119
+  offset: 0, 5
+  index: -1
+okkknut_tips_fa2
+  rotate: true
+  xy: 2, 152
+  size: 76, 228
+  orig: 76, 228
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa3
+  rotate: true
+  xy: 853, 362
+  size: 148, 125
+  orig: 148, 125
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa4a
+  rotate: true
+  xy: 792, 181
+  size: 187, 55
+  orig: 187, 55
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa4b
+  rotate: true
+  xy: 607, 185
+  size: 183, 99
+  orig: 183, 99
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa5
+  rotate: true
+  xy: 2, 3
+  size: 70, 180
+  orig: 72, 186
+  offset: 2, 0
+  index: -1
+okkknut_tips_fa6
+  rotate: true
+  xy: 800, 44
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa7
+  rotate: true
+  xy: 792, 106
+  size: 73, 209
+  orig: 73, 209
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa8
+  rotate: true
+  xy: 2, 75
+  size: 75, 224
+  orig: 75, 224
+  offset: 0, 0
+  index: -1
+okkknut_tips_fa9
+  rotate: true
+  xy: 302, 249
+  size: 119, 240
+  orig: 119, 240
+  offset: 0, 0
+  index: -1
+okkknut_tips_fayingzi1
+  rotate: true
+  xy: 963, 183
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+okkknut_tips_fayingzi2
+  rotate: false
+  xy: 587, 74
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+okkknut_tips_fayingzi3
+  rotate: false
+  xy: 289, 124
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+okkknut_tips_lian -1
+  rotate: false
+  xy: 2, 230
+  size: 298, 280
+  orig: 298, 280
+  offset: 0, 0
+  index: -1
+okkknut_tips_meimao
+  rotate: true
+  xy: 544, 121
+  size: 247, 61
+  orig: 247, 61
+  offset: 0, 0
+  index: -1
+okkknut_tips_shenti
+  rotate: false
+  xy: 302, 370
+  size: 549, 140
+  orig: 549, 140
+  offset: 0, 0
+  index: -1
+okkknut_tips_tongkong
+  rotate: true
+  xy: 506, 91
+  size: 33, 32
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+okkknut_tips_yanj
+  rotate: true
+  xy: 387, 5
+  size: 242, 69
+  orig: 242, 70
+  offset: 0, 1
+  index: -1
+okkknut_tips_youbi1
+  rotate: true
+  xy: 708, 167
+  size: 201, 82
+  orig: 201, 82
+  offset: 0, 0
+  index: -1
+okkknut_tips_youbi2
+  rotate: false
+  xy: 232, 161
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+okkknut_tips_youshouzhang
+  rotate: false
+  xy: 897, 276
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+okkknut_tips_youzhi1
+  rotate: true
+  xy: 662, 13
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+okkknut_tips_youzhi2
+  rotate: false
+  xy: 897, 247
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+okkknut_tips_youzhi3
+  rotate: true
+  xy: 662, 123
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+okkknut_tips_youzhi4
+  rotate: true
+  xy: 506, 30
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+okkknut_tips_youzhi5
+  rotate: true
+  xy: 865, 78
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuobi1
+  rotate: true
+  xy: 607, 12
+  size: 171, 53
+  orig: 171, 53
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuobi2
+  rotate: false
+  xy: 458, 126
+  size: 84, 121
+  orig: 84, 121
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuozhang
+  rotate: true
+  xy: 184, 4
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuozhi1
+  rotate: true
+  xy: 289, 97
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuozhi2
+  rotate: true
+  xy: 587, 7
+  size: 65, 16
+  orig: 65, 16
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuozhi3
+  rotate: true
+  xy: 662, 59
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuozhi4
+  rotate: false
+  xy: 957, 256
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+okkknut_tips_zuozhi5
+  rotate: false
+  xy: 957, 232
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
