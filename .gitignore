@@ -1,6 +1,7 @@
 node_modules/
 dist/
 data/*.sqlite
+!data/asset-hub.sqlite
 data/*.sqlite-*
 server.log
 npm-debug.log*
